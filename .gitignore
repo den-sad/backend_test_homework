@@ -1,2 +1,7 @@
 README.md
 .venv
+env/
+.env
+.vscode/
+__pycache__/
+.pytest_cache/
